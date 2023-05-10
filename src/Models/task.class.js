@@ -1,7 +1,7 @@
 import { LEVELS } from "./levels.enum";
 
 
-export class task{
+export class Task{
     name="";
     description="";
     completed=false;
